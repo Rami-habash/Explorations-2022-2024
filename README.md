@@ -1,2 +1,2 @@
 # Projects
-These are personal projects and projects I have worked on throughout my education.
+These are the personal projects that I have made. They come from my combined general knowledge as a Software Developer.
