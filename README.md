@@ -3,7 +3,7 @@ This repository contains projects I have worked on to gain a better understandin
 
 -----
 
-##Roblox game - 2022
+Roblox game - 2022
 
 Before you play:
 - You need to have Roblox downloaded
@@ -20,7 +20,7 @@ Skills learned:
 
 -----
 
-##Trivia game - 2024
+Trivia game - 2024
 
 Before you play:
 - Enter the category
