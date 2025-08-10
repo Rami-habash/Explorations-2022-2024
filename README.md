@@ -2,7 +2,7 @@
 This repository contains projects I have worked on to gain a better understanding of programming and how to apply it to things I'm interested in. I'll continue to update this file with additional information as I add it. Check out the list of added things below.
 
 -----
-#Roblox game - 2022
+##Roblox game - 2022
 
 Before you play:
 - You need to have Roblox downloaded
@@ -18,17 +18,19 @@ Skills learned:
 - A good introduction to game design.
 
   
-#Trivia game - 2024
+##Trivia game - 2024
 
 Before you play:
 - Enter the category
 - Answer the question
 - See if you got it right
 
+To play: click the file on the left side of the screen and click on open in Google Colab
+
 Skills learned:
 - This game primarily enhanced my creativity
-- It enhanced my skills in Python which went on to be my primary language
-- It gave me an opportunity to apply the things I learned to create simething fun
+- It enhanced my skills in Python, which went on to be my primary language
+- It gave me an opportunity to apply the things I learned to create something fun
 
 
 
