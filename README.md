@@ -2,6 +2,7 @@
 This repository contains projects I have worked on to gain a better understanding of programming and how to apply it to things I'm interested in. I'll continue to update this file with additional information as I add it. Check out the list of added things below.
 
 -----
+
 ##Roblox game - 2022
 
 Before you play:
@@ -17,7 +18,8 @@ Skills learned:
 - I also first learned how to use generative AI to my advantage when I needed help with coding.
 - A good introduction to game design.
 
-  
+-----
+
 ##Trivia game - 2024
 
 Before you play:
